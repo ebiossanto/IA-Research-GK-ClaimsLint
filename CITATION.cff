@@ -1,0 +1,23 @@
+cff-version: 1.2.0
+title: "gk_claims_lint — verificador de consistencia de claims (Ten-Proofs)"
+message: "Se você usar esta ferramenta, cite o repositório-mãe e este software."
+type: software
+authors:
+  - family-names: "Soares dos Santos"
+    given-names: "Euzébio"
+    role: author
+license: MIT
+repository-code: "https://github.com/ebiossanto/IA-Research-GK-ClaimsLint"
+url: "https://github.com/ebiossanto/IA-Research-GK-ClaimsLint"
+abstract: "Núcleo: metodologia **Ten-Proofs** do projeto —10 regras (retrações, status obsoletos, disclaimer, hashes, indexação) + CI."
+keywords: ["proof-complexity", "bounded-arithmetic", "goedel", "krajicek",
+  "formal-methods", "reproducible-research"]
+preferred-citation:
+  type: software
+  title: "gk_claims_lint — verificador de consistencia de claims (Ten-Proofs)"
+  author:
+    - family-names: "Soares dos Santos"
+      given-names: "Euzébio"
+  year: 2026
+  url: "https://github.com/ebiossanto/IA-Research-GK-ClaimsLint"
+  notes: "Extraido do repositorio IA-research-Godel-e-Krajicek (MIT)."
